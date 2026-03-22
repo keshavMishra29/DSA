@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keshavMishra29/DSA/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/keshavMishra29/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/keshavMishra29/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
