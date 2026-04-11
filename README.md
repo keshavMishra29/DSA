@@ -38,9 +38,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/keshavMishra29/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
