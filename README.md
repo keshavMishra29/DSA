@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavMishra29/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/keshavMishra29/DSA/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/keshavMishra29/DSA/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/keshavMishra29/DSA/tree/master/0493-reverse-pairs) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavMishra29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
