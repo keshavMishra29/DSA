@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/keshavMishra29/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/keshavMishra29/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keshavMishra29/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keshavMishra29/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/keshavMishra29/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
