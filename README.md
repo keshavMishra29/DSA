@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavMishra29/DSA/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/keshavMishra29/DSA/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/keshavMishra29/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
@@ -181,5 +183,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
