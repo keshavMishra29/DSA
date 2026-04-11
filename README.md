@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/keshavMishra29/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/keshavMishra29/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/keshavMishra29/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -220,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/keshavMishra29/DSA/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
