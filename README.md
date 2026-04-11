@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -89,4 +90,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
