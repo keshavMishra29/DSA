@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3875-construct-uniform-parity-array-i](https://github.com/keshavMishra29/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/keshavMishra29/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/keshavMishra29/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/keshavMishra29/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Matrix
 |  |
