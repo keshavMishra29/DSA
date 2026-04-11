@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
