@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
+| [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavMishra29/DSA/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
