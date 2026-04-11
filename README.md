@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/keshavMishra29/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/keshavMishra29/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/keshavMishra29/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/keshavMishra29/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavMishra29/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Merge Sort
 |  |
 | ------- |
