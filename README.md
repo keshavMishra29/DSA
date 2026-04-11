@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavMishra29/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/keshavMishra29/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/keshavMishra29/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/keshavMishra29/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/keshavMishra29/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
