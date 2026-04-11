@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
