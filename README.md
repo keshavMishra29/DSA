@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/keshavMishra29/DSA/tree/master/0896-monotonic-array) |
+| [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/keshavMishra29/DSA/tree/master/0493-reverse-pairs) |
+| [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/keshavMishra29/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/keshavMishra29/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
