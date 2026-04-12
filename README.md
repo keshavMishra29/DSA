@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/keshavMishra29/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/keshavMishra29/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/keshavMishra29/DSA/tree/master/0089-gray-code) |
@@ -58,7 +59,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/keshavMishra29/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0118-pascals-triangle](https://github.com/keshavMishra29/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavMishra29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/keshavMishra29/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keshavMishra29/DSA/tree/master/0137-single-number-ii) |
@@ -199,7 +199,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshavMishra29/DSA/tree/master/0053-maximum-subarray) |
-| [0118-pascals-triangle](https://github.com/keshavMishra29/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavMishra29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
@@ -386,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/keshavMishra29/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/keshavMishra29/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/keshavMishra29/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
