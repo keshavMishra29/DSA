@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1664-ways-to-make-a-fair-array](https://github.com/keshavMishra29/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/keshavMishra29/DSA/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/keshavMishra29/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/keshavMishra29/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2751-robot-collisions](https://github.com/keshavMishra29/DSA/tree/master/2751-robot-collisions) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Recursion
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2069-walking-robot-simulation-ii](https://github.com/keshavMishra29/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/keshavMishra29/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/keshavMishra29/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/keshavMishra29/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
