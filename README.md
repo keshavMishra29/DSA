@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/keshavMishra29/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/keshavMishra29/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavMishra29/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavMishra29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/keshavMishra29/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavMishra29/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavMishra29/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/keshavMishra29/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keshavMishra29/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
