@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/keshavMishra29/DSA/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/keshavMishra29/DSA/tree/master/1768-merge-strings-alternately) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/keshavMishra29/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/keshavMishra29/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
+| [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/keshavMishra29/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
