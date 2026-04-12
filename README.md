@@ -25,7 +25,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
-| [0728-self-dividing-numbers](https://github.com/keshavMishra29/DSA/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
@@ -40,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2523-closest-prime-numbers-in-range](https://github.com/keshavMishra29/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshavMishra29/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3870-count-commas-in-range](https://github.com/keshavMishra29/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavMishra29/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/keshavMishra29/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
