@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/keshavMishra29/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/keshavMishra29/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavMishra29/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Matrix
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Geometry
 |  |
