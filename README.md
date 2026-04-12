@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/keshavMishra29/DSA/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/keshavMishra29/DSA/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/keshavMishra29/DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/keshavMishra29/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keshavMishra29/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/keshavMishra29/DSA/tree/master/0191-number-of-1-bits) |
@@ -522,5 +524,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0077-combinations](https://github.com/keshavMishra29/DSA/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/keshavMishra29/DSA/tree/master/0089-gray-code) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
