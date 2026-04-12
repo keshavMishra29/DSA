@@ -45,7 +45,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/keshavMishra29/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
-| [0084-largest-rectangle-in-histogram](https://github.com/keshavMishra29/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavMishra29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshavMishra29/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavMishra29/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/keshavMishra29/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
@@ -318,10 +318,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/keshavMishra29/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/keshavMishra29/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/keshavMishra29/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/keshavMishra29/DSA/tree/master/2751-robot-collisions) |
@@ -441,8 +441,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/keshavMishra29/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/keshavMishra29/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/keshavMishra29/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
