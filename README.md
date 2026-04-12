@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavMishra29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
 | ------- |
