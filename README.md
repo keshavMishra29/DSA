@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/keshavMishra29/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/keshavMishra29/DSA/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
