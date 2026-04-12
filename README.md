@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/keshavMishra29/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2523-closest-prime-numbers-in-range](https://github.com/keshavMishra29/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshavMishra29/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/keshavMishra29/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -543,4 +545,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/keshavMishra29/DSA/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/keshavMishra29/DSA/tree/master/0089-gray-code) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/keshavMishra29/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
