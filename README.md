@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -42,7 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/keshavMishra29/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -178,7 +180,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavMishra29/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/keshavMishra29/DSA/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/keshavMishra29/DSA/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -192,7 +193,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavMishra29/DSA/tree/master/0002-add-two-numbers) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/keshavMishra29/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/keshavMishra29/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/keshavMishra29/DSA/tree/master/0025-reverse-nodes-in-k-group) |
@@ -210,7 +210,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavMishra29/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/keshavMishra29/DSA/tree/master/0016-3sum-closest) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/keshavMishra29/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/keshavMishra29/DSA/tree/master/0141-linked-list-cycle) |
@@ -310,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
@@ -408,4 +408,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
