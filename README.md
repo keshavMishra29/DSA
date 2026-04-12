@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavMishra29/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavMishra29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavMishra29/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/keshavMishra29/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavMishra29/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/keshavMishra29/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/keshavMishra29/DSA/tree/master/0636-exclusive-time-of-functions) |
