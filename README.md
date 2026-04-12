@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keshavMishra29/DSA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/keshavMishra29/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/keshavMishra29/DSA/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/keshavMishra29/DSA/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
