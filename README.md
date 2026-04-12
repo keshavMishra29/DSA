@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/keshavMishra29/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keshavMishra29/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/keshavMishra29/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keshavMishra29/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keshavMishra29/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/keshavMishra29/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
