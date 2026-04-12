@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
 | [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/keshavMishra29/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavMishra29/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/keshavMishra29/DSA/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/keshavMishra29/DSA/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/keshavMishra29/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
