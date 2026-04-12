@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/keshavMishra29/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/keshavMishra29/DSA/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/keshavMishra29/DSA/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/keshavMishra29/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/keshavMishra29/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2043-simple-bank-system](https://github.com/keshavMishra29/DSA/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/keshavMishra29/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/keshavMishra29/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/keshavMishra29/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/keshavMishra29/DSA/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/keshavMishra29/DSA/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/keshavMishra29/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/keshavMishra29/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/keshavMishra29/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
+| [2043-simple-bank-system](https://github.com/keshavMishra29/DSA/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/keshavMishra29/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
 |  |
