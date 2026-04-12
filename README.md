@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/keshavMishra29/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/keshavMishra29/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
 |  |
 | ------- |
