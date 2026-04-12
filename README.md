@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/keshavMishra29/DSA/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/keshavMishra29/DSA/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshavMishra29/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
 | [2069-walking-robot-simulation-ii](https://github.com/keshavMishra29/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
 |  |
@@ -353,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
