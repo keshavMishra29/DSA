@@ -10,10 +10,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/keshavMishra29/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/keshavMishra29/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/keshavMishra29/DSA/tree/master/0043-multiply-strings) |
-| [0048-rotate-image](https://github.com/keshavMishra29/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keshavMishra29/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/keshavMishra29/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/keshavMishra29/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -39,7 +39,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/keshavMishra29/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/keshavMishra29/DSA/tree/master/0041-first-missing-positive) |
-| [0048-rotate-image](https://github.com/keshavMishra29/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keshavMishra29/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/keshavMishra29/DSA/tree/master/0056-merge-intervals) |
@@ -48,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/keshavMishra29/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/keshavMishra29/DSA/tree/master/0217-contains-duplicate) |
@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2751-robot-collisions](https://github.com/keshavMishra29/DSA/tree/master/2751-robot-collisions) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/keshavMishra29/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/keshavMishra29/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -107,7 +108,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
-| [0048-rotate-image](https://github.com/keshavMishra29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/keshavMishra29/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/keshavMishra29/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/keshavMishra29/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/keshavMishra29/DSA/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
