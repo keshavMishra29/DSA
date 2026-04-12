@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/keshavMishra29/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/keshavMishra29/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/keshavMishra29/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/keshavMishra29/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/keshavMishra29/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/keshavMishra29/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/keshavMishra29/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/keshavMishra29/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/keshavMishra29/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/keshavMishra29/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2751-robot-collisions](https://github.com/keshavMishra29/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/keshavMishra29/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/keshavMishra29/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Merge Sort
 |  |
@@ -288,7 +291,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/keshavMishra29/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/keshavMishra29/DSA/tree/master/0482-license-key-formatting) |
-| [0521-longest-uncommon-subsequence-i](https://github.com/keshavMishra29/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/keshavMishra29/DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/keshavMishra29/DSA/tree/master/0709-to-lower-case) |
