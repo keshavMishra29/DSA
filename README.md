@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/keshavMishra29/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/keshavMishra29/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavMishra29/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/keshavMishra29/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-masking-personal-information](https://github.com/keshavMishra29/DSA/tree/master/0831-masking-personal-information) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1507-reformat-date](https://github.com/keshavMishra29/DSA/tree/master/1507-reformat-date) |
 | [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Geometry
@@ -491,4 +494,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/keshavMishra29/DSA/tree/master/0077-combinations) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/keshavMishra29/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
