@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/keshavMishra29/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2485-find-the-pivot-integer](https://github.com/keshavMishra29/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/keshavMishra29/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshavMishra29/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/keshavMishra29/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/keshavMishra29/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/keshavMishra29/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/keshavMishra29/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/keshavMishra29/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
