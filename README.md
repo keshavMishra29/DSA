@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/keshavMishra29/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/keshavMishra29/DSA/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/keshavMishra29/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/keshavMishra29/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshavMishra29/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavMishra29/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavMishra29/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/keshavMishra29/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/keshavMishra29/DSA/tree/master/0436-find-right-interval) |
+| [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/keshavMishra29/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/keshavMishra29/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/keshavMishra29/DSA/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/keshavMishra29/DSA/tree/master/0645-set-mismatch) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/keshavMishra29/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/keshavMishra29/DSA/tree/master/3878-count-good-subarrays) |
 ## Geometry
