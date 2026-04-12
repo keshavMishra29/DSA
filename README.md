@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavMishra29/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavMishra29/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavMishra29/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/keshavMishra29/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/keshavMishra29/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/keshavMishra29/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/keshavMishra29/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2906-construct-product-matrix](https://github.com/keshavMishra29/DSA/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/keshavMishra29/DSA/tree/master/3546-equal-sum-grid-partition-i) |
