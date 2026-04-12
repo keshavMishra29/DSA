@@ -491,8 +491,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keshavMishra29/DSA/tree/master/0258-add-digits) |
-## Backtracking
-|  |
-| ------- |
-| [0077-combinations](https://github.com/keshavMishra29/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
