@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/keshavMishra29/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
+| [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/keshavMishra29/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/keshavMishra29/DSA/tree/master/0932-beautiful-array) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/keshavMishra29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keshavMishra29/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavMishra29/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/keshavMishra29/DSA/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/keshavMishra29/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
