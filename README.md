@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/keshavMishra29/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/keshavMishra29/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/keshavMishra29/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1507-reformat-date](https://github.com/keshavMishra29/DSA/tree/master/1507-reformat-date) |
 | [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/keshavMishra29/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/keshavMishra29/DSA/tree/master/1768-merge-strings-alternately) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/keshavMishra29/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
