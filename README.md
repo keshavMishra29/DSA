@@ -288,8 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/keshavMishra29/DSA/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
-| [0686-repeated-string-match](https://github.com/keshavMishra29/DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/keshavMishra29/DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/keshavMishra29/DSA/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -359,7 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavMishra29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
-| [0686-repeated-string-match](https://github.com/keshavMishra29/DSA/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/keshavMishra29/DSA/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/keshavMishra29/DSA/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/keshavMishra29/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
