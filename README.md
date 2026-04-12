@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/keshavMishra29/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/keshavMishra29/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/keshavMishra29/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/keshavMishra29/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/keshavMishra29/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/keshavMishra29/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavMishra29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/keshavMishra29/DSA/tree/master/1768-merge-strings-alternately) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/keshavMishra29/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/keshavMishra29/DSA/tree/master/0204-count-primes) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/keshavMishra29/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/keshavMishra29/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Tree
