@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/keshavMishra29/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/keshavMishra29/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/keshavMishra29/DSA/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/keshavMishra29/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/keshavMishra29/DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/keshavMishra29/DSA/tree/master/0709-to-lower-case) |
