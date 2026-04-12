@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/keshavMishra29/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/keshavMishra29/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keshavMishra29/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshavMishra29/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keshavMishra29/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/keshavMishra29/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/keshavMishra29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0283-move-zeroes) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavMishra29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavMishra29/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavMishra29/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavMishra29/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -126,14 +129,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/keshavMishra29/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keshavMishra29/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/keshavMishra29/DSA/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/keshavMishra29/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/keshavMishra29/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/keshavMishra29/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavMishra29/DSA/tree/master/0560-subarray-sum-equals-k) |
-| [0771-jewels-and-stones](https://github.com/keshavMishra29/DSA/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/keshavMishra29/DSA/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/keshavMishra29/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/keshavMishra29/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/keshavMishra29/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/keshavMishra29/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -233,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/keshavMishra29/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavMishra29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keshavMishra29/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavMishra29/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/keshavMishra29/DSA/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/keshavMishra29/DSA/tree/master/0436-find-right-interval) |
@@ -278,7 +283,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/keshavMishra29/DSA/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/keshavMishra29/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/keshavMishra29/DSA/tree/master/0709-to-lower-case) |
-| [0771-jewels-and-stones](https://github.com/keshavMishra29/DSA/tree/master/0771-jewels-and-stones) |
 | [1041-robot-bounded-in-circle](https://github.com/keshavMishra29/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshavMishra29/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -398,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/keshavMishra29/DSA/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/keshavMishra29/DSA/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
