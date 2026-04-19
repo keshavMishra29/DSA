@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshavMishra29/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/keshavMishra29/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/keshavMishra29/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/keshavMishra29/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/keshavMishra29/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/keshavMishra29/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/keshavMishra29/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavMishra29/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavMishra29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/keshavMishra29/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavMishra29/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/keshavMishra29/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/keshavMishra29/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/keshavMishra29/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/keshavMishra29/DSA/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/keshavMishra29/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/keshavMishra29/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/keshavMishra29/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
