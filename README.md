@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/keshavMishra29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/keshavMishra29/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/keshavMishra29/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0788-rotated-digits](https://github.com/keshavMishra29/DSA/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/keshavMishra29/DSA/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/keshavMishra29/DSA/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/keshavMishra29/DSA/tree/master/0883-projection-area-of-3d-shapes) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/keshavMishra29/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/keshavMishra29/DSA/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/keshavMishra29/DSA/tree/master/0233-number-of-digit-one) |
+| [0788-rotated-digits](https://github.com/keshavMishra29/DSA/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/keshavMishra29/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/keshavMishra29/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/keshavMishra29/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
